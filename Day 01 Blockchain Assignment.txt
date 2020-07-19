@@ -1,0 +1,48 @@
+Day-1 - Assignment 1:(18/07/2020)
+
+Q1. What is your understanding of Blockchain?
+
+Ans. Has my understanding The Blockchain technology that holds transactional records by ensuring security, transparency, and decentralization. Each block contains a cryptographic data of previous data. It is also a distributed ledger that can record transactions between two parties efficiently and in a verifiable and permanent way.
+
+Q2. What is the core problem Blockchain trying to solve?
+core problems:
+
+1. Security
+2. Decentralization.
+3. Authentication.
+
+Some other problems can be solved:
+
+1. Real Estate
+2. Crowdfunding
+3. Intellectual Property
+4. Voting System
+5. Currency and Transaction Support
+
+Q3. What are the few features which Blockchain will give u?
+
+1. Verifiable
+2. Unchangeable
+3. Tamper proof
+4. Immutable
+5. Decentralized System
+6. Minting
+
+Q4. What all things does a Block Contain?
+
+1. Block magic number.
+2. Records.
+3. Previous block signature.
+5. Mining Key.
+
+Q5. How is the verifiability of Blockchain is been attained?
+
+The Blockchain can be verifiability by the data or the key which are stored in the distributed systems.
+
+Formula:-
+
+Current Block Signature = Previous Block Signature + Data in the Block
+ex: BlockData = Fingerprint1
+New Data1 + previous fingerprint 1 = Fingerprint 2
+New Data2 + previous fingerprint 2 = Fingerprint 3 and
+so on...
